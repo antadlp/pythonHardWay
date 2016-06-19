@@ -4,7 +4,7 @@
 
 #input pulgadas And pounds
 inCm = 1.0
-inPounds = 1.0
+inPounds = 30.0
 
 print "Las pulgadas que quieres convertir son %f" % inCm
 print "que son %f centimetros" % (inCm*2.54)
