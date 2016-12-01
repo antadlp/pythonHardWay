@@ -1,11 +1,12 @@
 from sys import argv
 
+#uno, scrip = argv
+#user_name = 'zed'
 scrip = argv
-user_name = 'zed'
-#script, user_name = argv
+user_name = argv
 prompt = '$ '
 
-print "Hi %s, I'm the %s script." % (user_name, scrip)
+print "Hi %s, I'm the %s script." %(user_name, scrip)
 print "I'd like to ask you a few questions."
 print "Do you like me %s?" % user_name
 likes = raw_input(prompt)
