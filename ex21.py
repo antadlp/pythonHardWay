@@ -24,7 +24,7 @@ weight = multiply(90, 2)
 iq = divide(100, 2)
 
 
-print "Age: %d, Height: %d, weight: %d, iq: %d" % (age, height, weight, iq)
+print "Age: %d, Height: %d, w
 
 
 print "Here is a puzzle"
